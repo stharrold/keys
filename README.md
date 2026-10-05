@@ -19,6 +19,6 @@ python3 verify_export.py --fingerprint sha256:ec33b14614f4f858b45b0b7f79ef44a15c
 python3 verify_export.py --key-url https://raw.githubusercontent.com/stharrold/keys/main/export-signing-ed25519.pub.b64
 ```
 
-This repository is the published record of the key: `export-signing-ed25519.pub.b64` was added once, on
-2026-10-04. A later change to that file would appear as a new commit in this repository's public
+This repository is the published record of the key: `export-signing-ed25519.pub.b64` was added once, in
+commit `ba276c5` (2026-10-05 UTC). A later change to that file would appear as a new commit in this repository's public
 history -- if you ever see one, ask before trusting a signature made with a different key.
